@@ -12,10 +12,9 @@
 To understand the factors on which the demand for these shared bikes depends. Specifically, to understand the factors affecting the demand for these shared bikes in the American market. The company wants to know:
 
 a. Which variables are significant in predicting the demand for shared bikes.
-b.How well those variables describe the bike demands.
+b. How well those variables describe the bike demands.
 
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
-
 
 ## Conclusions
  cnt = - 0.4458 + 1.0456 * yr - 0.3696 * holiday + 0.4732 * temp - 0.1139 * windspeed - 0.3278 * spring + 0.2011 * summer + 0.3577 * winter - 1.2234 * LightSnowAndRain - 0.3519 * MistAndCloudy + 0.2911 * September
