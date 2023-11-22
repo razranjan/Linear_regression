@@ -18,8 +18,7 @@ Based on various meteorological surveys and people's styles, the service provide
 
 
 ## Conclusions
- cnt = - 0.4458 + 1.0456 * yr - 0.3696 * holiday + 0.4732 * temp - 0.1139 * windspeed - 0.3278 * spring 
- + 0.2011 * summer + 0.3577 * winter - 1.2234 * LightSnowAndRain - 0.3519 * MistAndCloudy + 0.2911 * September
+ cnt = - 0.4458 + 1.0456 * yr - 0.3696 * holiday + 0.4732 * temp - 0.1139 * windspeed - 0.3278 * spring + 0.2011 * summer + 0.3577 * winter - 1.2234 * LightSnowAndRain - 0.3519 * MistAndCloudy + 0.2911 * September
 
  So, The Count depends on Yr , holdiay , temp , windspeed , spring , summer , winter , LightSnowAndRain , MistAndCloudy and September
 
