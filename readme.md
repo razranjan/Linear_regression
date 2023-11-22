@@ -25,8 +25,8 @@ Based on various meteorological surveys and people's styles, the service provide
 
 
 ## Technologies Used
-Python 3.10.9
-Notebook 6.5.2
+1. Python 3.10.9
+2. Notebook 6.5.2
 
 ## Acknowledgements
 1. https://www.upgrad.com/
